@@ -4,7 +4,7 @@ var Main = React.createClass({
             <div>
 
               <Header />
-             <Body />
+              <Body />
          </div>
          )
     }
