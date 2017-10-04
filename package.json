@@ -1,0 +1,7 @@
+{
+  "name": "matt-midterm",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
